@@ -1,6 +1,6 @@
 Gem::Specification.new do |t|
 	t.name         = 'mika'
-	t.version      = '0.0.1'
+	t.version      = '0.0.2'
 	t.executables << 'mika' # For Exrcutable
 	t.date         = '2017-08-28'
 	t.summary      = 'Mika Gem'
